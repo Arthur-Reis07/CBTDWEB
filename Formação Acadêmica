@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+
+</head>
+<body>
+    <h1> Arthur Reis </h1>
+    <h2> Aluno do Instituto Federal de Cubatão</h2>
+    <h3> Formações</h3>
+    <p> IFSP - Análise e Desenvolvimento de Sistemas: 2025-2027</p>
+    <p> SENAI Cubatão - Caldeiraria: 2024-2025</p>
+    <p> SENAI Santos - Operador de Suporte Técnico em TI: 2024-2025</p>
+    <p> SENAI Cubatão - Implantação de Serviços de IA: 2025/01-2025/02</p>
+    <p> SENAI CUbatão - Mecânica de Manutenção: 2023-2024</p>
+    <h4> Idiomas</h4>
+    <p> Espanhol Intermediário - Duolingo</p>
+</body>
+</html>
